@@ -17,7 +17,6 @@ Web閲覧におけるスマホ比率の増加やWebブラウザ企画の標準�
 - 『Angular2』
 - 『asm.jsとWebAssemblyって実際なんなの？』
 - 『PostCSS と nextcss』
-- 『ヒューマンエラー回避のためのエラーメッセージデザイン』
 - 『WebComponentsとPolymer』
 - 『Async Enhancement』
 - 他Lighting Talk 数本
