@@ -16,7 +16,7 @@ Web閲覧におけるスマホ比率の増加やWebブラウザ企画の標準�
 
 - 『Angular2』
 - 『asm.jsとWebAssemblyって実際なんなの？』
-- 『Kaizen Platform における AngularJS の多言語対応（i18n）』
+- 『PostCSS と nextcss』
 - 『ヒューマンエラー回避のためのエラーメッセージデザイン』
 - 『WebComponentsとPolymer』
 - 『Async Enhancement』
